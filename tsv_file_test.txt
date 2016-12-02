@@ -1,0 +1,4 @@
+name	phone	color	stuff
+steph	21	purple	hello
+bob	13	orange	whatever
+mikey	12	blue	ok
